@@ -1,0 +1,189 @@
+[
+    {
+       "id": 1,
+       "name": "Órlaith Geary",
+       "course": "Medicine",
+       "year": "4th Year",
+       "position": "Captain",
+       "photos": [
+          "/static/images/committee/captain1.jpg",
+          "/static/images/committee/captain2.jpg"
+       ],
+       "bullets": [
+          "🎶 She's obsessed with musicals, and might burst into song at any moment. Also might be willing to teach you piano if you ask nicely with money.",
+          "🙆 She's more flexible than 90% of the club, but also shorter than 90% of the club.",
+          "💖 A lot more friendly than she might come across initially, so don't be put off!",
+          "👢 Asked me to mention that she really appreciates a good pair of boots (so if you're looking for Christmas gift ideas...)",
+          "✔️ Órlaith is also one of our coaches, so you'll definitely see plenty of her at training!"
+       ],
+       "description": "Small but fierce"
+    },
+    {
+       "id": 2,
+       "name": "Laura Corbett",
+       "course": "Physics and Astrophysics",
+       "year": "4th Year",
+       "position": "Secretary",
+       "photos": [
+          "/static/images/committee/secretary1.jpg",
+          "/static/images/committee/secretary2.jpg"
+       ],
+       "bullets": [
+          "🇬🇧 She's originally from England but moved to Mayo when she was 8, which explains the accent (and probably some other stuff).",
+          "👽 On the topic of aliens, she's a big fan of space (outer, but probably personal too), and loves reading and watching movies about it.",
+          "👀 Apparently her eyes have active camouflage, and change colour depending on what she's wearing. She's definitely human though. We think.",
+          "📧 She'll be sending you all of the wonderful emails this year, so be sure to read carefully and get all the trampoline news!"
+       ],
+       "description": ""
+    },
+    {
+       "id": 3,
+       "name": "Iarlaith Doherty",
+       "course": "Pharmacy",
+       "year": "Masters",
+       "position": "Treasurer",
+       "photos": [
+          "/static/images/committee/treasurer1.jpg",
+          "/static/images/committee/treasurer2.jpg"
+       ],
+       "bullets": [
+          "🔁 He hasn't quite managed to move on with his life after finishing his studies in Trinity, so he's still hanging around the club. It's okay though, we like him well enough.",
+          "💪 Never missing leg day, arm day, chest day, or even little toe day in the gym, he's a fan of exercise, running, and generally being swole. It's also rare for him to miss pints day.",
+          "👔 In keeping with his buff bod, he likes to keep up appearances by dressing fancy at parties. Oh, wait, he said fancy dress. He likes fancy dress parties.",
+          "💰 When not trampolining or in the gym, he likes to keep fit by chasing after people for money. Look out for his colourful spreadsheets during the year.",
+          "💸 While you might not see Iarlaith on the trampolines quite as often as some of the other committee members, don't worry. He's always around, finding new ways to save you some sweet dolla billz."
+       ],
+       "description": ""
+    },
+    {
+       "id": 4,
+       "name": "Adelais Farnell Sharp",
+       "course": "Neuroscience",
+       "year": "Masters",
+       "position": "Head Coach",
+       "photos": [
+          "/static/images/committee/head1.jpg",
+          "/static/images/committee/head2.jpg"
+       ],
+       "bullets": [
+          "💇 Don't be concerned if her hair changes colour regularly. It's guided by the weather and she has little control over the whole process.",
+          "⚔️ Never one for \"normal\" sports, she also fences with German longswords, and is a former competitive figure skater.",
+          "🐉 She's originally from England, but has lived in Wales for the last ten years. Yes, including last year, while she studied in Trinity.",
+          "🤕 She's allergic to pineapple, and is roughly 30% deaf on a good day. Also, please never ever click your neck near her unless you're prepared for a crying heap. She has issues.",
+          "😈 As our highest level coach, you'll most likely spot Adi yelling at, laughing at, or trying her best to annoy all the other coaches at any given training session."
+       ],
+       "description": ""
+    },
+    {
+       "id": 5,
+       "name": "Conor Delaney",
+       "course": "Genetics",
+       "year": "PhD",
+       "position": "Assistant Head Coach",
+       "photos": [
+          "/static/images/committee/asshead1.jpg",
+          "/static/images/committee/asshead2.jpg"
+       ],
+       "bullets": [
+          "🎓 He's happy to train new members in the ways of both trampolining and pints.",
+          "⚡️ You can usually spot him with either coffee or an energy drink close by. Offerings of caffeine will stand in your favour.",
+          "🔬 Don't ask how many brains he's had in his hands, because he's lost count. Human brains or animal brains? Yes.",
+          "😴 Do you really need all that sleep on competition nights away? You can bet he'll be doing his best to convince you that you don't.",
+          "🔋 You'll always find our Ass. Head Conor raving away full of energy, either while he's coaching, or on the night out."
+       ],
+       "description": ""
+    },
+    {
+       "id": 6,
+       "name": "Kim Sheehan-Thomas",
+       "course": "Immunology",
+       "year": "3rd Year",
+       "position": "Competitions Officer",
+       "photos": [
+          "/static/images/committee/comps1.jpg",
+          "/static/images/committee/comps2.jpg"
+       ],
+       "bullets": [
+          "🤔 She has a lot going on in her head, and is often a bit bewildered by life. Try not to startle her.",
+          "🎭 She's likes a bit of wordplay, and you will apparently be \"PUNished\" if you're not a fan.",
+          "🍕 Breakfast foods don't exist for her, since \"it's dinner time somewhere in the world\". Be sure to ask her how she likes her meat cooked.",
+          "🏆 Kim will be the lovely lady who mildly harasses you to come and show off at all of the various competitions we'll be going to throughout the year."
+       ],
+       "description": "\"It's a boat rig. Where are the sails?\""
+    },
+    {
+       "id": 7,
+       "name": "Georgianna Taylor",
+       "course": "Physiotherapy",
+       "year": "4th Year",
+       "position": "Club Rep",
+       "photos": [
+          "/static/images/committee/clubrep1.jpg",
+          "/static/images/committee/clubrep2.jpg"
+       ],
+       "bullets": [
+          "💃 She's our resident dancing queen, thanks to doing ballet from the age of 2, and teaches jazz classes when not bouncing.",
+          "🐙 Her numerous, long limbs can cause occasional issues, such as when she kneed herself in the face at her first training.",
+          "🌲 Similarly, being up there with the lankiest of our members means she struggles with some of life's daily challenges, like backwards rolls on the trampoline.",
+          "👠 Always on the latest fashion trends, it's rare to see her without her unique sparkly shoes or koala onesie.",
+          "😸 Like the cat out of Cheshire that she is, you'll definitely find her smiling at you at training (right before she makes you run for warm-up!)"
+       ],
+       "description": ""
+    },
+    {
+       "id": 8,
+       "name": "Jane Taylor",
+       "course": "TSM Russian and Italian",
+       "year": "3rd Year",
+       "position": "Ents and Fundraising Officer",
+       "photos": [
+          "/static/images/committee/ents1.jpg",
+          "/static/images/committee/ents2.jpg"
+       ],
+       "bullets": [
+          "👋 She's all about getting to know new people, and loves talking to new members of the club. Especially about Putin.",
+          "🗣 On that note, watch out if you happen to be Italian or Russian, since she has a very particular set of skills, and she will find you, and she will chat to you.",
+          "💞 Teamwork makes Jane's dreams work, because she loves making everyone feel involved and proud to be part of the club.",
+          "♻️ She's qualified as a gymnastics coach (so you'll find her teaching you how to tumble on our airtrack), but decided to turn those skills to good use on the trampolines instead.",
+          "🍻 You'll see plenty of Jane on our nights out as she points you in the direction of all the finest establishments, as well as at our various charity events during the year!"
+       ],
+       "description": ""
+    },
+    {
+       "id": 9,
+       "name": "Dave Woods",
+       "course": "Computer Science",
+       "year": "PhD",
+       "position": "Webmaster",
+       "photos": [
+          "/static/images/committee/webmaster1.jpg",
+          "/static/images/committee/webmaster2.jpg"
+       ],
+       "bullets": [
+          "☕️ Like any good student should, he has what he tells himself is a \"mild\" addiction to caffeine, which spirals out of control at busy points of the year.",
+          "🍷 He's super classy, like aged wine. Also old, like aged wine. Also he can't afford to buy aged wine, and the classy part might not be true.",
+          "🎲 He's an unashamed nerd, and will happily discuss things like Star Wars, Lord of the Rings, and D&D with enthusiasm. Seriously, ask him if he's wearing Star Wars socks.",
+          "🎨 He's able and quite willing to photoshop your face onto things if it seems appropriate or funny.",
+          "💻 If he's not coaching your front drops on the trampoline, you'll probably find him on a computer throwing code at his problems until something works."
+       ],
+       "description": "Gets to write these descriptions"
+    },
+    {
+       "id": 10,
+       "name": "Aideen Mallon",
+       "course": "Music Education",
+       "year": "Graduate",
+       "position": "Honorary President",
+       "photos": [
+          "/static/images/committee/honsprez1.jpg",
+          "/static/images/committee/honsprez2.jpg"
+       ],
+       "bullets": [
+          "📚 These days she's the one giving the lessons in the classroom, and all those teacher books come in handy when she needs a stepladder. She's really quite short.",
+          "🎁 She's always on hand to give advice about making your costumes, and if you're lucky, she might even knit one for you!",
+          "💯 She has more leos than she can count, and has medalled in almost all of them, because she's just that class.",
+          "🔥 Aideen was our Captain a couple of years ago, and has decided that her dedication to the club couldn't end there. While she's not around quite so much any more, she still pops in now and then to offer sage advice and coaching wisdom."
+       ],
+       "description": ""
+    }
+ ]

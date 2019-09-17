@@ -1,0 +1,9 @@
+{
+    "version": 2,
+    "builds": [{ "src": "package.json", "use": "@now/next" }],
+    "env": {
+        "GMAIL_USER": "@gmail-user-env",
+        "GMAIL_PASS": "@gmail-pass-env",
+        "WEBMASTER_EMAIL": "@webmaster-email-env"
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "du-trampoline-website",
+  "version": "0.3.1",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "David Woods",
+      "email": "dwoodscs@gmail.com",
+      "url": "https://github.com/dave-woods"
+    }
+  ],
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^9.0.0",
+    "nodemailer": "^6.2.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "dotenv": "^8.0.0"
+  }
+}
